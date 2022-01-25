@@ -34,11 +34,14 @@ Sample response:
 {nameRes:"{$.name.firstName}"} ==> {nameRes:"a"}
 
 If you have an array in request instead and want to access a particular element of the array use as below:
+
+
 Request:
 {name:[{firstName:"a", lastName:"b"},{firstName:"c", lastName:"d"}]}
 
 Respnse:
 {nameRes:"{$.name.[0].firstName}"} ==> {nameRes:"a"}
+
 {nameRes:"{$.name.[1].firstName}"} ==> {nameRes:"c"}
 
 
