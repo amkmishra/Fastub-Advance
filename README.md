@@ -1,7 +1,7 @@
 # Fastub-Advance
 An advance version of fastub API mocking client supporting 
 
-It's based on base created by prabjot678.
+It's based on base code created by github user @prabjot678.
 
 This one supports dynamic responses, by using expressions 
 to place data from request.
