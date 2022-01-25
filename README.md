@@ -5,8 +5,10 @@ You can use 7zip to unzip it into one file, if you have a better place to keep i
 Do let me know in comments.
 
 It's based on base code created by github user @prabjot678, it just adds support for dynamic response based on request data.
-You can download original fastub jar at https://getfastub.com/
-and source code from https://github.com/prabjot678/fastub.
+
+
+ORIGINAL FASTUB JAR WITHOUT DYNAMIC RESPONSE:
+https://getfastub.com/ and source code from https://github.com/prabjot678/fastub.
 
 This one supports dynamic responses, by using expressions 
 to place data from request.
