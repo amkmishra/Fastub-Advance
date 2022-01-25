@@ -1,5 +1,9 @@
 # Fastub-Advance
-An advance version of fastub API mocking client supporting.
+An advance version of fastub API mocking client with dynamic client support.
+
+Default server port is 4000, you can run it with:
+java -jar fastub-advance-1.0.0.jar
+
 Since file was more than 25MB had to split it in multiple files.
 You can use 7zip to unzip it into one file, if you have a better place to keep it.
 Do let me know in comments.
