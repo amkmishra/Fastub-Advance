@@ -20,7 +20,7 @@ firstname from request, i.e {name:{firstName:"a", lastName:"b"}}
 Use below expression as value inside double quotes
 
 {$.name.firstName}
-This will fetch data from request and put it in the response.
+This will fetch firstName (under name object) from request and put it in the response.
 
 Sample response:
 
