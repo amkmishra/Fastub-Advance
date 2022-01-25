@@ -1,7 +1,12 @@
 # Fastub-Advance
-An advance version of fastub API mocking client supporting 
+An advance version of fastub API mocking client supporting.
+Since file was more than 25MB had to split it in multiple files.
+You can use 7zip to unzip it into one file, if you have a better place to keep it.
+Do let me know in comments.
 
-It's based on base code created by github user @prabjot678.
+It's based on base code created by github user @prabjot678, it just adds some dynamicity to response based on request data.
+You can download original fastub jar at https://getfastub.com/
+and source code from https://github.com/prabjot678/fastub.
 
 This one supports dynamic responses, by using expressions 
 to place data from request.
