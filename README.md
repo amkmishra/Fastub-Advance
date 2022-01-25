@@ -24,5 +24,5 @@ This will fetch firstName (under name object) from request and put it in the res
 
 Sample response:
 
-{nameRes:"{$.name.firstName}"}
+{nameRes:"{$.name.firstName}"} ==> {nameRes:"a"}
 
